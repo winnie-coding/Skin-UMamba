@@ -1,1 +1,1 @@
-# Skin-UMamba-An-efficient-and-lightweight-method-for-skin-lesion-segmentation
+# Skin-UMamba: An efficient and lightweight method for skin lesion segmentation
