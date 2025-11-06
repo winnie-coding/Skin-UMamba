@@ -1,4 +1,4 @@
-# Skin-UMamba: An efficient and lightweight method for skin lesion segmentation 🐍
+# 🐍Skin-UMamba: An efficient and lightweight method for skin lesion segmentation
 
 [![Python 3.8](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/downloads/release/python-380/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
@@ -64,5 +64,7 @@ python test.py
 ```
 **After testing, you could obtain the outputs in './results/'**
 
-🤝 Acknowledgement
-Thanks to Vim, VMamba, VM-UNet and LightM-UNet for their excellent work.
+---
+
+## 🤝 Acknowledgement
+Thanks to Vim, VMamba, VM-UNet and UltraLight-VM-UNet for their excellent work.
